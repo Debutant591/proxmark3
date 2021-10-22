@@ -1,9 +1,0 @@
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\bin\Release\Download Proxmark3.exe
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\bin\Release\Download Proxmark3.pdb
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\bin\Release\Download Proxmark3.xml
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\obj\x86\Release\WindowsApplication1.Form1.resources
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\obj\x86\Release\WindowsApplication1.Resources.resources
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\obj\x86\Release\Download Proxmark3.vbproj.GenerateResource.Cache
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\obj\x86\Release\Download Proxmark3.exe
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\obj\x86\Release\Download Proxmark3.xml
-C:\Users\Nathalie\Documents\Visual Studio 2010\Projects\Download Proxmark3\Download Proxmark3\obj\x86\Release\Download Proxmark3.pdb

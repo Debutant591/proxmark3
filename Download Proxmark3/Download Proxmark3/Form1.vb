@@ -72,7 +72,7 @@ Public Class Form1
                 End If
             If CheckBox2.Checked = True Then
                 Threading.Thread.Sleep(600)
-                wc.DownloadFileAsync(New Uri("https://github.com" & urlmark), Path.Combine(folder.SelectedPath, GetFileName("https://codeload.github.com" & urlmark)))
+                wc.DownloadFileAsync(New Uri("https://github.com" & urlmark), Path.Combine(folder.SelectedPath, GetFileName("https://github.com" & urlmark)))
             End If
             Button1.Enabled = False
             GroupBox1.Enabled = False

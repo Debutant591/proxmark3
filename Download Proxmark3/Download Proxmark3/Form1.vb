@@ -104,7 +104,7 @@ Public Class Form1
             CheckBox1.Visible = True
             CheckBox2.Visible = True
             CheckBox2.Visible = True
-            ToolStripStatusLabel1.Text = "Idle"
+            ToolStripStatusLabel1.Text = "Idle..."
             ToolStripStatusLabel1.ForeColor = Color.Black
         End If
     End Sub

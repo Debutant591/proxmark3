@@ -1,2 +1,3 @@
 # proxmark3
-download proxmark3 on windows 10
+This example shows how to have the latest Firmware version of proxmark3
+
